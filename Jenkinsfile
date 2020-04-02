@@ -6,7 +6,6 @@ node{
 
  
 stage('SCM Checkout'){
-tool 'Maven 3'
  
 git 'https://github.com/bhanu6549/Jenkins'
 
